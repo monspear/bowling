@@ -1,0 +1,38 @@
+﻿  bowling.cpp
+D:\bowling\bowling\bowling.cpp(127,30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\bowling\bowling\bowling.cpp(150,31): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(154,30): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(158,31): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(166,30): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(174,31): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(178,30): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(190,28): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(192,29): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(193,26): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(472,26): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(473,26): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(476,27): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(477,27): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(479,26): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(480,25): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(481,25): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(482,25): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(483,25): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(484,24): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(688,29): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(685,16): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+D:\bowling\bowling\bowling.cpp(685,13): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+D:\bowling\bowling\bowling.cpp(685,10): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+D:\bowling\bowling\bowling.cpp(1382,28): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(1384,29): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(1385,26): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(1560,36): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(1562,36): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(1564,32): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(1566,34): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(1577,20): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(1583,25): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(1584,24): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+D:\bowling\bowling\bowling.cpp(1617,26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bowling\bowling\bowling.cpp(1635,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  bowling.vcxproj -> D:\bowling\bowling\x64\Debug\bowling.exe
