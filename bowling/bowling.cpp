@@ -1605,7 +1605,7 @@ void Mykey(unsigned char key, int x, int y)
 	default: break;
 	}
 	glutPostRedisplay();
-	cout << ball_check << '\n';
+	//cout << ball_check << '\n';
 }
 
 void mouse_F(int button, int state, int x, int y)
@@ -1637,7 +1637,7 @@ void main(int argc, char** argv)
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH);
 	glutInitWindowPosition(100, 100);
 	glutInitWindowSize(800, 600);
-	glutCreateWindow("볼링과제");
+	glutCreateWindow("볼링프로그램");
 	init();
 
 	glutDisplayFunc(display);
